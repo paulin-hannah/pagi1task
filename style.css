@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(30, 17, 149, 0.434);
+    color: rgb(44, 160, 12);
+  }
+  
+  #nav-bar {
+    position: relative;
+    top: 12cm;
+  }
+  
+  #description {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  #table-head {
+    color: rgb(191, 86, 10);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px rgb(199, 202, 14);
+  }
+  
+  #t-body {
+    color: rgb(173, 16, 16);
+    text-align: center;
+  }
